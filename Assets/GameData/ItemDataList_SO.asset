@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0843d659c9d1249bf69d34f08d1316, type: 3}
+  m_Name: ItemDataList_SO
+  m_EditorClassIdentifier: 
+  itemsDetailsList:
+  - itemId: 1001
+    itemName: "\u94DC\u955C"
+    buildPrefab: {fileID: 759685761237726548, guid: f4293722602616349970057410703e56,
+      type: 3}
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: 71392ca68417ecf47b589918c68a32b7, type: 3}
+    itemUseType: 4
+  - itemId: 1003
+    itemName: "\u7EBF\u7D221"
+    buildPrefab: {fileID: 0}
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: fd35c94964190da4096510276aa0543a, type: 3}
+    itemUseType: 6
+  - itemId: 1008
+    itemName: "\u94DC\u955C\u53F0"
+    buildPrefab: {fileID: 0}
+    itemType: 1
+    itemIcon: {fileID: 0}
+    itemUseType: 2
+  - itemId: 1010
+    itemName: "\u534E\u5BB9\u9053"
+    buildPrefab: {fileID: 0}
+    itemType: 0
+    itemIcon: {fileID: 0}
+    itemUseType: 5
+  - itemId: 1011
+    itemName: "\u62F1\u95E8"
+    buildPrefab: {fileID: 0}
+    itemType: 2
+    itemIcon: {fileID: 0}
+    itemUseType: 0
+  - itemId: 1012
+    itemName: "\u70B8\u836F\u6876"
+    buildPrefab: {fileID: 5855135423545836111, guid: 94c5102c2ae1e61499da8ad74914996e,
+      type: 3}
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: b9a6b7fda3c1d7944ab8198dbaf1f9b1, type: 3}
+    itemUseType: 4
+  - itemId: 1013
+    itemName: "\u953B\u9020\u53F0"
+    buildPrefab: {fileID: 5855135423545836111, guid: 94c5102c2ae1e61499da8ad74914996e,
+      type: 3}
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: d75e9d11906f9af4c9e51fdb0e6897d9, type: 3}
+    itemUseType: 7
+  - itemId: 1014
+    itemName: "\u7EBF\u7D222"
+    buildPrefab: {fileID: 0}
+    itemType: 0
+    itemIcon: {fileID: 0}
+    itemUseType: 6
